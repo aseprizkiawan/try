@@ -1,0 +1,32 @@
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 0.5em;
+}
+
+h2{
+    font-family: sans-serif;
+    color: aqua;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #333;
+}
+#header {
+    background: teal;
+    color: white;
+    height: 90px;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+a:hover{
+    color: deeppink;
+}
+h1{
+    transition: 0.5s;
+}
+h1:hover{
+    color: lime;
+    transition: 0.5s;
+}
