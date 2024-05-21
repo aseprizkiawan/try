@@ -1,5 +1,6 @@
 body {
-    background-image: url('background1.jpg');
+    background-image : url(background1.jpg);
+    color:white-space:;
     background-repeat:no-repeat ;
     background-size:cover;
 }
@@ -18,7 +19,7 @@ h2 {
     color:white;
 }
 #a {
-    background: mediumturquoise;
+    background 
     color: white;
     height: 20px;
     padding: 10px;
